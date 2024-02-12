@@ -52,11 +52,11 @@ $ hiscovid <country name(s)>
 
 $ hiscovid Japan 'South Korea'
 
-<img src='https://github.com/ytakefuji/hiscovid/raw/main/jsk.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/hiscovid/raw/main/jsk.png' height=480 width=640>
 
 $ hiscovid Japan Taiwan
 
-<img src='https://github.com/ytakefuji/hiscovid/raw/main/twjp.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/hiscovid/raw/main/twjp.png' height=480 width=640>
 
 
 The vertical axis shows the overall result scores for policy, individual behavior, vaccination, 
@@ -71,7 +71,7 @@ In the graph of Japan, there is a single abruptly changed point around mid-Janua
 
 $ hiscovid Taiwan 'New Zealand'
 
-<img src='https://github.com/ytakefuji/hiscovid/raw/main/twnz.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/hiscovid/raw/main/twnz.png' height=480 width=640>
 
 There is one point in the Taiwan graph that changes abruptly around mid-May 2021.
 
@@ -79,7 +79,7 @@ There is one point in the New Zealand graph that changes abruptly around the mid
 
 $ hiscovid Taiwan 'United States' 'United Kingdom'
 
-<img src='https://github.com/ytakefuji/hiscovid/raw/main/twusuk.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/hiscovid/raw/main/twusuk.png' height=480 width=640>
 
 In the US graph, the scoreline is constantly bad, but a single point that changes abruptly around the mid-August 2021.
 
@@ -90,5 +90,5 @@ including the mid-March 2020 and the mid-October 2020.
 # Students exercises
 question: Can you convert hiscovid into a program that produces black and white lines?
 
-<img src='https://github.com/ytakefuji/hiscovid/raw/main/bw.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/hiscovid/raw/main/bw.png' height=480 width=640>
 
